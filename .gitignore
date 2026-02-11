@@ -1,0 +1,17 @@
+# Ignore compiled executables
+*.o
+*.out
+*.exe
+q[0-9]*
+!q[0-9]*.c
+
+# Ignore temporary editor/IDE files
+*.swp
+*.vscode/
+*.idea/
+
+# Ignore OS files
+.DS_Store
+
+# Optional: ignore logs or temporary files
+*.log
