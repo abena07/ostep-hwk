@@ -7,7 +7,7 @@ homeworks are organized by chapter.
 
 ```bash
 # navigate to the chapter folder
-cd cht[x]
+cd ch[x]
 
 # compile the c program
 gcc q[x].c -o q[x]
