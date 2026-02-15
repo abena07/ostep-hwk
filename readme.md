@@ -1,6 +1,6 @@
 ### ostep homework
 
-this repository contains my practice exercises for the book **operating systems: three easy steps**.
+this repository contains my practice exercises for the book [**operating systems: three easy steps**](https://github.com/mthipparthi/operating-systems-three-easy-pieces/blob/master/book.pdf).
 homeworks are organized by chapter.
 
 #### how to run a program
