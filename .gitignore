@@ -2,8 +2,12 @@
 *.o
 *.out
 *.exe
+*.dSYM/
 q[0-9]*
 !q[0-9]*.c
+null
+syscall
+leak
 
 # Ignore temporary editor/IDE files
 *.swp
